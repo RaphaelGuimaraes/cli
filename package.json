@@ -1,0 +1,23 @@
+{
+  "name": "wza",
+  "version": "1.0.0",
+  "description": "Wooza CLI",
+  "bin": {
+    "wza": "./src/index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Wooza",
+    "CLI"
+  ],
+  "author": "Wooza",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "clear": "^0.1.0",
+    "figlet": "^1.4.0"
+  }
+}
